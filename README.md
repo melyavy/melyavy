@@ -1,8 +1,8 @@
-## Hi everyone 👋
+## 👩‍💻 Get to Know Me
 
-My name is Melya Vebryanti and I'm a undergraduate data science student. 
+Hi! I'm Melya Vebryanti, an undergraduate Data Science student with a strong interest in Data Science and Artificial Intelligence, particularly in the field of Image Processing. I enjoy exploring how deep learning techniques can be applied to solve real-world problems, such as detection and classification.
 
-Let's find me at [Linkedin](https://www.linkedin.com/in/melya-vebryanti/).
+Find me at [Linkedin](https://www.linkedin.com/in/melya-vebryanti/).
 
 See you 👋
 
