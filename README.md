@@ -1,10 +1,8 @@
 ## 👩‍💻 Get to Know Me
 
-Hi! I'm Melya Vebryanti, an undergraduate Data Science student with a strong interest in Data Science and Artificial Intelligence, particularly in the field of Image Processing. I enjoy exploring how deep learning techniques can be applied to solve real-world problems, such as detection and classification.
+Hi! I'm Melya Vebryanti 👋, an undergraduate Data Science student with a strong interest in Data Science and Artificial Intelligence, particularly in the field of Image Processing. I enjoy exploring how deep learning techniques can be applied to solve real-world problems, such as detection and classification.
 
 Find me at [Linkedin](https://www.linkedin.com/in/melya-vebryanti/).
-
-See you 👋
 
 ### Github Statistic
 <p align="left">
